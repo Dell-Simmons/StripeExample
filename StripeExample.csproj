@@ -4,6 +4,7 @@
     <TargetFramework>netcoreapp5.0</TargetFramework>
     <RootNamespace>StripeExample</RootNamespace>
     <RollForward>Major</RollForward>
+    <StartupObject></StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
